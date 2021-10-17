@@ -4,4 +4,4 @@ This is a really awesome website
 
 Edit on example branch
 
-Update locally
+Update locally, then remotely
